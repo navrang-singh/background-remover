@@ -1,6 +1,6 @@
 # background-remover
 
-This is a simple strealit app which can be used to remove background from the image .
+This is a simple streamlit app which can be used to remove background from the image .
 
 1. To use this simply create a python venv .
 2. Install all required packages by pip install -r requirements.txt . 
